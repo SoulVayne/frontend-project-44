@@ -1,6 +1,6 @@
 {
   "name": "frontend-project-44",
-  "type":"module",
+  "type": "module",
   "version": "1.0.0",
   "description": "brain-games",
   "bin": {
@@ -11,5 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "SoulVayne",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
