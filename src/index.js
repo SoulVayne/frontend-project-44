@@ -19,10 +19,8 @@ const game = (rules, defGame) => {
     if (answer) {
       console.log('Correct!');
     } else {
-      console.log(
-        `'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'. \n
-        Let's try again, ${name}!`,
-      );
+      console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
+      console.log(`Let's try again, ${name}!`);
       return;
     }
   }
