@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import randomQuestionGcd from "../src/games/gcd.js";
+import randomQuestionGcd from '../src/games/gcd.js';
 
 randomQuestionGcd();
