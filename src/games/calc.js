@@ -1,3 +1,5 @@
+import { game, getRandomNumber } from '../index.js';
+
 function randomQuestionCalc() {
     const number1 = getRandomNumber(100);
     const number2 = getRandomNumber(100);
