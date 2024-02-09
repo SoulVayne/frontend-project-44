@@ -41,3 +41,13 @@ $ brain-progression
 ```
 #### Пример команд и самой игры:
 [![asciicast](https://asciinema.org/a/dxax6vHR7RZDdIVJzpRv6yzjG.svg)](https://asciinema.org/a/dxax6vHR7RZDdIVJzpRv6yzjG)
+
+# **Игра "Простое ли число?"**
+
+*Суть игры: игроку дается число, после чего он должен выбрать "yes" если оно простое и "no" таковым не является.*
+### Запуск игры
+```
+$ brain-prime
+```
+#### Пример команд и самой игры:
+[![asciicast](https://asciinema.org/a/JduVBKiBk7mri2OcgMyAtJIaw.svg)](https://asciinema.org/a/JduVBKiBk7mri2OcgMyAtJIaw)
