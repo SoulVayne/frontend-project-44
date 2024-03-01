@@ -1,7 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/SoulVayne/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/SoulVayne/frontend-project-44/actions)
 
-[![Maintainability](https://codeclimate.com/github/SoulVayne/frontend-project-44/maintainability)](https://api.codeclimate.com/v1/badges/f56c6df833ce6ce345bc/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/f56c6df833ce6ce345bc/maintainability)](https://codeclimate.com/github/SoulVayne/frontend-project-44/maintainability)
 # **Игра "Четность числа"**.
 
 *Суть игры: Игроку показывается случайное число. Ему нужно ответить yes, если число чётное, или no — если нечётное.*
